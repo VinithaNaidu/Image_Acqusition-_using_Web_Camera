@@ -122,28 +122,28 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
+![WhatsApp Image 2024-05-18 at 12 15 26_04f4865e](https://github.com/VinithaNaidu/Image_Acqusition-_using_Web_Camera/assets/121166004/6d1ae5dd-091f-4d03-a7d2-d2bd3c23d7f7)
 
 
-![image](https://github.com/premalatha-sureshbabu/Image_Acqusition-_using_Web_Camera/assets/120620842/63d3f302-29f3-4e97-901b-7fa340acbfed)
 
 
 
 ### ii) Display the video
 
-![image](https://github.com/premalatha-sureshbabu/Image_Acqusition-_using_Web_Camera/assets/120620842/25722fb4-ee94-472f-a5d3-e9c57a5f86c7)
+![Screenshot 2024-05-18 121959](https://github.com/VinithaNaidu/Image_Acqusition-_using_Web_Camera/assets/121166004/f058a0ad-44fc-41aa-bdfc-6eeedde0ad13)
 
 
 
 ### iii) Display the video by resizing the window
 
-![image](https://github.com/premalatha-sureshbabu/Image_Acqusition-_using_Web_Camera/assets/120620842/54b00ea5-e9f1-4901-b038-4ac7f1470899)
 
+![Screenshot 2024-05-18 122053](https://github.com/VinithaNaidu/Image_Acqusition-_using_Web_Camera/assets/121166004/9ba514a8-5e15-4acc-b726-79f387f4252d)
 
 
 
 ### iv) Rotate and display the video
+![image](https://github.com/VinithaNaidu/Image_Acqusition-_using_Web_Camera/assets/121166004/e421f4c5-ad54-4e62-8590-343617e1218d)
 
-![image](https://github.com/premalatha-sureshbabu/Image_Acqusition-_using_Web_Camera/assets/120620842/0b4f7a35-ab82-4231-969e-093f261c5f2f)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
